@@ -1,0 +1,4 @@
+The price is 3.50 and then 42.
+Next line: 3.50 is repeated.
+Also a new number: 3.14.
+Ignore -5 and text.
